@@ -1,0 +1,12 @@
+button{
+    padding: "10px 20px";
+              background-Color: "#28a745";
+              color: "white";
+              border: "none";
+              border-Radius: "5px";
+              cursor: "pointer";
+}
+
+.check{
+     padding: "20px"
+}

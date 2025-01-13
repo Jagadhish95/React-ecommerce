@@ -1,0 +1,30 @@
+
+.cart {
+  padding: 20px;
+}
+
+.cart-items {
+  display: flex;
+  flex-direction:column;
+  gap: 20px;
+}
+
+.cart-item {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+  background-color: white;
+}
+
+.quantity-controls {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.cart-item-image {
+  max-width: 100px;
+  max-height: 100px;
+  object-fit: cover;
+  
+}

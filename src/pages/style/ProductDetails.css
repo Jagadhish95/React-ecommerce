@@ -1,0 +1,26 @@
+/* src/pages/ProductDetails.css  */
+
+  .product-details {
+    text-align: center;
+    padding: 20px;
+  }   
+
+  
+  .product-image {
+    width: 300px; 
+    height: 300px; 
+    margin-bottom: 20px;
+    border-radius: 10px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin: 10px 0;
+  }
+  
+  p {
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  
